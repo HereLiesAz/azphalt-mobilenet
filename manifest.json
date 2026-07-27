@@ -4,7 +4,7 @@
   "name": "MobileNetV3",
   "version": "1.0.0",
   "kind": "asset",
-  "license": "MIT",
+  "license": "LicenseRef-Upstream-Unstated",
   "compat": ">=0.1",
   "description": "A compact vision backbone usable both as a labeler and as a feature embedder. Uses: image labeling / tagging; footage search; learned concepts (image embeddings); content-based similarity.",
   "author": "HereLiesAz",
