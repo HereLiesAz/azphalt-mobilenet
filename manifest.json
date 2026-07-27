@@ -4,10 +4,10 @@
   "name": "MobileNetV3",
   "version": "1.0.0",
   "kind": "asset",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "compat": ">=0.1",
   "description": "A compact vision backbone usable both as a labeler and as a feature embedder. Uses: image labeling / tagging; footage search; learned concepts (image embeddings); content-based similarity.",
-  "author": "azphalt",
+  "author": "HereLiesAz",
   "homepage": "https://github.com/HereLiesAz/azphalt-mobilenet",
   "assets": [
     {
@@ -36,6 +36,5 @@
         "image"
       ]
     }
-  ],
-  "files": {}
+  ]
 }
